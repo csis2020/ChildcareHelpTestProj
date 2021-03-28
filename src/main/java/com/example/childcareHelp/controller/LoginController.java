@@ -37,8 +37,8 @@ public class LoginController {
             session.setAttribute("USER_INFO", babysitter);
             landingPage = "contract/listOfAcceptContracts";
         }
-        //landingPage = "babysitter/listOfBabysitters";
-        landingPage = "contract/listOfAcceptContracts";
+        landingPage = "babysitter/listOfBabysitters";
+        //landingPage = "contract/listOfAcceptContracts";
         return landingPage;
     }
     /*
