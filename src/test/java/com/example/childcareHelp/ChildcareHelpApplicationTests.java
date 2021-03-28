@@ -8,6 +8,8 @@ class ChildcareHelpApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
+		//test
 	}
 
 }
